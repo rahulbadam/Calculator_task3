@@ -7,20 +7,20 @@ public class CalcMethods {
 		this.y=y;
 		// TODO Auto-generated constructor stub
 	}
-	public double add(double first, double second) {
+	public double add(double a, double b) {
 		// TODO Auto-generated method stub
-		return first+second;
+		return a+b;
 	}
-	public double sub(double first, double second) {
+	public double sub(double a, double b) {
 		// TODO Auto-generated method stub
-		return first-second;
+		return a-b;
 	}
-	public double mul(double first, double second) {
+	public double mul(double a, double b) {
 		// TODO Auto-generated method stub
-		return first*second;
+		return a*b;
 	}
-	public double div(double first, double second) {
+	public double div(double a, double b) {
 		// TODO Auto-generated method stub
-		return first/second;
+		return a/b;
 	}
 }
